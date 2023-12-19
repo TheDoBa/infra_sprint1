@@ -1,5 +1,5 @@
 IP: 158.160.27.15;
-name_taski: yaprak.ddns.net;
-name_kittygram: yakittygram.ddns.net;
+name_taski: https://yaprak.ddns.net;
+name_kittygram: https://yakittygram.ddns.net;
 login: admin;
 password: 1234;
