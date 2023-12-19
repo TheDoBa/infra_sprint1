@@ -54,7 +54,7 @@ server{
         try_files $uri /index.html;
     }
     location /media/ {
-        alias /var/www/kittygram/media/;  # Указываем путь до директории с фотографиями котиков
+        alias /var/www/kittygram/media/;
     }
 
     listen 443 ssl; # managed by Certbot
